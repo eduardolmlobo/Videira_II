@@ -1,2 +1,8 @@
 tensorflow
 streamlit
+PIL 
+numpy 
+pandas
+io
+gdown
+plotly
